@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyDownloader</string>
+    <string name="str_dlg_ok">확인</string>
+    <string name="str_dlg_cancel">취소</string>
+    <string name="str_service">서비스 중지</string>
+    <string name="str_download_msg">다운로드 하시겠습니까?</string>
+</resources>
